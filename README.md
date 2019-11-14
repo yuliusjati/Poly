@@ -3,7 +3,7 @@
 ![AltText](https://github.com/yuliusjati/Poly/blob/master/Screenshot%20(137).png)
 ![AltText](https://github.com/yuliusjati/Poly/blob/master/Screenshot%20(138).png)
 ![AltText](https://github.com/yuliusjati/Poly/blob/master/Screenshot%20(139).png)
-perbedaan langkah b dan c adalah jika langkah b membuat kembali dengan cara yang  berbeda. sedangkan langkah c yaitu untuk memperbaiki class yang salah.
+(perbedaan langkah b dan c adalah jika langkah b membuat kembali dengan cara yang  berbeda. sedangkan langkah c yaitu untuk memperbaiki class yang salah.)
 # hasil 2
 ![AltText](https://github.com/yuliusjati/Poly/blob/master/Screenshot%20(140).png)
 # hasil 3
